@@ -7,6 +7,6 @@
     justify-content: center;
     }
     .tower-group-3 {
-    display: flex;
+    display: flex-end;
     justify-content: flex-end;
     }
