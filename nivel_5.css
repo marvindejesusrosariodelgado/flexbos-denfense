@@ -1,7 +1,7 @@
 .tower-group-1 {
 
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: flex-end;
 }
 .tower-group-2 {
@@ -12,6 +12,6 @@
 .tower-group-3 {
 
     display: flex;
-    justify-content: center;
-    align-items: flex-end;
+    justify-content: space-around;
+    align-items: center;
 } 
